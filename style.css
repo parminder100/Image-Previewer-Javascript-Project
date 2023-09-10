@@ -1,0 +1,33 @@
+/* Header Start */
+header{
+    background-color: #808080;
+    padding:10px;
+    color: #fff;
+}
+header h1{
+    margin-bottom: 0px;
+}
+/* Header End */
+
+/* Image Section Start */
+.image-previewer-section{
+    padding-top: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.image-container{
+    width: 300px;
+    min-height: 100px;
+    border: 2px solid #000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #000;
+    margin-top: 50px;
+}
+.image-previewer{
+    display: none;
+    width: 100%;
+}
+/* Image Section End */
